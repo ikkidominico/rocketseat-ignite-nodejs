@@ -1,0 +1,2 @@
+- [ ] Encontrar uma melhor solução para a melhor sequência de refeições dentro da dieta
+- [ ] Completar as suítes de teste, tanto para usuários quanto para refeições
